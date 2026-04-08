@@ -1,3 +1,4 @@
+[Excel Formatting.xlsx](https://github.com/user-attachments/files/26579802/Excel.Formatting.xlsx)
 # EXCEL-PROJECT---CONDITIONAL-FORMATTING
  This project covers a a powerful spreadsheet tool (found in Excel, Google Sheets, etc.) that automatically changes the appearance of cells—such as background color, font style, or border—based on the data they contain. 
 
