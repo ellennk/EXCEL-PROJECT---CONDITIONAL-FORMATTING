@@ -17,6 +17,8 @@ costing more than 3000.
 
 5. Hightlight all cells in diagnosis column with flu.
 
+6. Use Excel functions Vlook up,Xlookup, index match and Hlookup to identify specific cells.
+
 ###  GENERAL SIGNIFICANCE OF CONDITIONAL FORMATTING
 1.Efficient Data Analysis: It saves significant time and effort by automating the formatting process. Instead of manually scanning thousands of rows, users can set rules to automatically highlight critical data points like sales targets or overdue deadlines.
 
